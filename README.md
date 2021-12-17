@@ -8,8 +8,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="44px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" height="30px" width="40px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
 
 <br />
 
