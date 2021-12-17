@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Angular" height="40px" width="40px" src="https://angular.io/assets/images/logos/angular/angular.svg" />][angular]
-[<img align="left" alt="Visual Studio Code" height="40px" width="40px" src="https://raw.githubusercontent.com/github/devicons/devicon/master/icons/visual-studio-code/visual-studio-code-original.svg" />][visualStudioCode]
+[<img align="left" alt="Visual Studio Code" height="40px" width="40px" src="https://raw.githubusercontent.com/github/devicons/devicon/master/icons/visual-studio-code/visual-studio-code-original-wordmark.svg" />][visualStudioCode]
 [<img align="left" alt="HTML5" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html5]
 [<img align="left" alt="CSS3" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
 [<img align="left" alt="Sass" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][sass]
