@@ -9,7 +9,7 @@
 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw2qb6fOFFRHrIydUCdG8NoI&ust=1639834535192000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDg-un56vQCFQAAAAAdAAAAABAD" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
 
 <br />
 
