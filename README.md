@@ -10,6 +10,8 @@
 
 [<img align="left" alt="LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Angular" height="40px" width="40px" src="https://angular.io/assets/images/logos/angular/angular.svg" />][angular]
