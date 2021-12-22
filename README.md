@@ -9,7 +9,6 @@
 
 
 [<img align="left" alt="LinkedIn" height="30px" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="center" alt="Instagram" width="60px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
 
 ### Languages and Tools:
 
